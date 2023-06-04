@@ -8,3 +8,9 @@ Copy the contents of .env.example to .env
 ```bash
 npx prisma db push
 ```
+or
+
+```bash
+npm run dbpush
+```
+
